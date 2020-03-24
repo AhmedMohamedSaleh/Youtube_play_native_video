@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='youtube_play_native_video_github'
